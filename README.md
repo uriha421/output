@@ -1,7 +1,7 @@
 # output
 
 ## What is this?
-This command converts a markdown file into a beautiful html file. It enables you easily to output what you input.
+This gives you a command, which converts a markdown file into a beautiful html file. The command enables you easily to output what you input.
 
 ## Prerequisites
 * Golang
