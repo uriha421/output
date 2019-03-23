@@ -1,0 +1,59 @@
+body {
+  padding: 1em;
+  margin: auto;
+
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  padding: 1.5em 0em 1.5em 1em;
+
+  background: black;
+  color: white;
+  font-size: 2em;
+}
+
+h2 {
+  margin-top: 0.5em;
+  margin-bottom: -0.6em;
+  font-size: 1.5em;
+}
+
+h3 {
+  margin-top: 2em;
+  margin-bottom: -0.6em;
+  font-size: 1.5em;
+}
+
+h4 {
+  margin-top: 2em;
+  margin-bottom: -0.6em;
+  font-size: 1.2em;
+}
+
+p {
+  line-height: 1.7em;
+}
+
+li {
+  margin-top: 0.5em;
+  
+  list-style-type: none;
+}
+
+li::before {
+  position: relative;
+  top: -0.3em;
+  left: -0.3em;
+
+  display: inline-block;
+
+  width: 0.3em;
+  height: 0.3em;
+
+  content: "";
+
+  border-radius: 100%;
+  background: black;
+}
+
