@@ -19,7 +19,7 @@ $ open html/note.html
 ```
 You have succeeded in creating a beautiful html output!
 
-## Interface
+## Interfaces
 ### markdown
 
 Markdown files must satisfy that interface.
@@ -36,8 +36,8 @@ Then you need to write a question or problem on the situation. Finally write som
 * The second point.
 * The third point.
 
+
 ### The first point
-As you can see, you have item numbers automatically.
 
 #### sample
 
