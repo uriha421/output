@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>sample note</title>
+    <title>Sample Note</title>
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link href="./css/style.css" rel="stylesheet"> 
     <link href="./css/prettify.css" rel="stylesheet"> 
