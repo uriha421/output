@@ -1,46 +1,37 @@
-# Title
+# Title (you can use # once only.)
+## Introduction (you can use ## once only.)
+At introduction, you need write what you readers already know, understand or agree.
+You need to make sure that the readers and you are on the same stage.
+Then you need to write a question or problem on the situation. Finally write some points to support your argument.
 
-## Introduction
-This is a sample paragraph.
-
-* The first point
-* The second point
-* The third point
+* The first point.
+* The second point.
+* The third point.
 
 ### The first point
-This is a sample paragraph.
+As you can see, you have item numbers automatically.
+This is a sample code below.
 
 ``` go
 func getTrue() bool {
     return true
 }
 ```
-This is a sample paragraph.
 
-#### hi
+#### sample
 
-#### hi
+#### sample
 
-#### hi
+#### sample
 
 
 ### The second point
 This is a sample paragraph.
 
-``` go
-func getTrue() bool {
-    return true
-}
-```
-This is a sample paragraph.
-
-### The third point
-This is a sample paragraph.
-
 ``` html
 <html>
   <head>
-    <titile></title>
+  <titile></title>
   </head>
   <body>
     <p>hello world</p>
@@ -48,4 +39,14 @@ This is a sample paragraph.
   </body>
 </html>
 ```
+
 This is a sample paragraph.
+
+
+### The third point
+
+#### sample
+
+#### sample
+
+#### sample
