@@ -73,7 +73,7 @@ You can omit -t flag. The default value of -t flag is "./templates/note.tpl".
 $ ./output path/to/markdown path/to/html -t path/to/template
 ```
 
-## Reference
+## References
 * https://github.com/russross/blackfriday
 * https://github.com/microcosm-cc/bluemonday
 * https://github.com/google/code-prettify
