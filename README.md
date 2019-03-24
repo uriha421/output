@@ -12,7 +12,7 @@ Type those commands in your terminal.
 
 ```
 $ go get github.com/uriha421/output
-$ cd output
+$ cd $GOPATH/src/github.com/output
 $ go build
 $ ./output md/note.md html/note.html
 $ open html/note.html
